@@ -8,6 +8,10 @@
 
 I am a passionate **AI Engineer** currently focused on expanding my expertise in **Generative AI** and **LLM-based technologies**. My key areas of interest include building **RAG (Retrieval-Augmented Generation)** systems and AI-driven **chatbot solutions**. I believe in staying at the cutting edge of AI advancements, constantly exploring new ways to integrate **Large Language Models (LLMs)** into real-world applications.
 
+- 👯 I’m looking to collaborate on **Generative AI projects** and **NLP innovations**, especially those involving real-world applications of large language models.
+- 🤔 I’m looking for help with advanced **LLM optimization techniques** and **generative AI deployments**.
+- 💬 Ask me about **Generative AI**, **Machine Learning**, **NLP**, and **Data Engineering**—I love discussing cutting-edge AI trends and solutions!
+
 ## 🚀 What I Can Do
 
 - **Generative AI**: Experience working with models like **Gemini Pro** and **FAISS** for creating highly accurate AI chatbots.
@@ -30,10 +34,6 @@ I am a passionate **AI Engineer** currently focused on expanding my expertise in
 - **LLM Fine-Tuning & Customization**: Diving deep into fine-tuning large language models to create more personalized and accurate AI solutions.
 - **Advanced Chatbot Development**: Enhancing my understanding of conversational AI, working on improving response relevance using advanced **RAG (Retrieval-Augmented Generation)** techniques.
 - **Generative AI Systems**: Continuously improving my skills in deploying generative models for real-world applications, including customer service, content generation, and intelligent assistant solutions.
-
-- 👯 I’m looking to collaborate on **Generative AI projects** and **NLP innovations**, especially those involving real-world applications of large language models.
-- 🤔 I’m looking for help with advanced **LLM optimization techniques** and **generative AI deployments**.
-- 💬 Ask me about **Generative AI**, **Machine Learning**, **NLP**, and **Data Engineering**—I love discussing cutting-edge AI trends and solutions!
 
 ## 📫 How to reach me
 
