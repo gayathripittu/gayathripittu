@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on **Generative AI projects** and **NLP innovations**, especially those involving real-world applications of large language models.
 - 🤔 I’m looking for help with advanced **LLM optimization techniques** and **generative AI deployments**.
 - 💬 Ask me about **Generative AI**, **Machine Learning**, **NLP**, and **Data Engineering**—I love discussing cutting-edge AI trends and solutions!
-- 📫 How to reach me: gayathripittu14@gmail.com | [LinkedIn](https://www.linkedin.com/in/gayathri-pittu/) | [GitHub](https://github.com/gayathrip556)
+- 📫 How to reach me: gayathripittu14@gmail.com | [LinkedIn](https://www.linkedin.com/in/gayathri-pittu-35b605228/) | [GitHub](https://github.com/gayathrip556)
 
 I'm always open to new opportunities and collaborations in the AI space. Let’s connect!
 
