@@ -1,8 +1,8 @@
 # Hi, I'm Gayathri Pittu 👋
 - 😄 Pronouns: She/Her
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gayathri%20Pittu-blue)](https://www.linkedin.com/in/gayathri-pittu/)
-[![GitHub](https://img.shields.io/badge/GitHub-gayathrip556-lightgrey)](https://github.com/gayathrip556)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gayathri%20Pittu-blue)](https://www.linkedin.com/in/gayathri-pittu-35b605228/)
+[![GitHub](https://img.shields.io/badge/GitHub-gayathrip556-lightgrey)](https://github.com/gayathripittu)
 
 - 🔭 I’m currently working on building **RAG (Retrieval-Augmented Generation) systems** and **LLM-based chatbots** to create intelligent conversational agents.
 - 🌱 I’m currently learning **LLM fine-tuning and building** to enhance personalized AI solutions across different industries.
